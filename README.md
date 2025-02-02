@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with over 
 
 - 🔧 I am passionate about web technologies and creating beautiful, high-performing websites.
 - 🌱 Currently, I am honing my skills in **Vue.js**, **React**, and **Node.js**, and focusing on continuous improvement in frontend development.
-- 🛠️ Experienced in building large-scale systems, including recruitment exam platforms for institutions like the **Teacher's Council** and **Police Recruitment Exam**.
+- 🛠️ Experienced in building large-scale systems, including recruitment exam platforms for institutions.
 
 ## 💼 Skills
 
@@ -30,11 +30,11 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with over 
 
 ### Frontend Developer | Internet Thailand PCL | 2023-Present
 - Worked on recruitment exam systems used by tens of thousands to hundreds of thousands of users.
-- Led the development of efficient and user-friendly web applications for various organizations such as the **Office of the Basic Education Commission** and the **Teacher's Council**.
+- Worked on Internal web application, Leave system.
 
 ## 🚀 Projects
 
-### [Recruitment Exam System](https://github.com/yourusername/recruitment-exam-system)
+### [Recruitment Exam System]
 A web application designed to handle recruitment exams for government positions with a focus on efficiency and user experience.
 
 
