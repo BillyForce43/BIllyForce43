@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with over 
 
 **Tools & Technologies:**
 - Git, GitHub, Docker
-- Webpack, Vite
+- Vite
 
 **Database:**
-- MySQL, MongoDB
+- MySQL
 
 ## 📈 Experience
 
@@ -32,22 +32,16 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with over 
 - Worked on recruitment exam systems used by tens of thousands to hundreds of thousands of users.
 - Led the development of efficient and user-friendly web applications for various organizations such as the **Office of the Basic Education Commission** and the **Teacher's Council**.
 
-### Frontend Developer Intern | Internet Thailand PCL | 2022
-- Contributed to various web development projects, focusing on building scalable and maintainable systems using Vue.js and Nuxt.js.
-
 ## 🚀 Projects
 
 ### [Recruitment Exam System](https://github.com/yourusername/recruitment-exam-system)
 A web application designed to handle recruitment exams for government positions with a focus on efficiency and user experience.
 
-### [Chronic Kidney Disease Risk Assessment](https://github.com/yourusername/kidney-disease-risk-assessment)
-A health-related web application for assessing the risk of chronic kidney disease, built as part of my capstone project using **Flask**.
 
 ## 📫 Contact Me
 
-- 📧 Email: [nattawat.s@example.com](mailto:nattawat.s@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/nattawat](https://linkedin.com/in/nattawat)
-- 🐦 Twitter: [@nattawat_dev](https://twitter.com/nattawat_dev)
+- 📧 Email: [nattawat.s@example.com](mailto:nattawat.blf@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/nattawat](https://www.linkedin.com/in/nattawat-saetang-70b7b2257/)
 
 ---
 
