@@ -40,7 +40,7 @@ A web application designed to handle recruitment exams for government positions 
 
 ## 📫 Contact Me
 
-- 📧 Email: [nattawat.s@example.com](mailto:nattawat.blf@gmail.com)
+- 📧 Email: [nattawat.blf@gmail.com](mailto:nattawat.blf@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/nattawat](https://www.linkedin.com/in/nattawat-saetang-70b7b2257/)
 
 ---
